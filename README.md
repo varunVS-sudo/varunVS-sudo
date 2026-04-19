@@ -27,4 +27,47 @@ When I'm not coding, you'll find me exploring new tech stacks, contributing to o
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+
+**Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+
+---
+
+### 🔥 Featured Projects
+
+- **☁️ cloudflow** — Lightweight orchestration engine for serverless workflows
+- **✌️ devtools** — Curated collection of modern developer productivity tools  
+- **scalekit** — Zero-downtime database migration framework
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=2B1D1A&title_color=FF8C42&text_color=FFD23F&icon_color=FFBA08)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=radical&hide_border=true&bg_color=2B1D1A&title_color=FF8C42&text_color=FFD23F)
+
+</div>
+
+---
+
+### 🌟 Currently Exploring
+
+- Modern web development & frontend architecture  
+- AI-assisted development  
+- Sustainable & performant web applications
+
+---
+
+**"Code is like humor. When you have to explain it, it’s bad."**
+
+Thanks for stopping by! Star anything that sparks joy ✨
