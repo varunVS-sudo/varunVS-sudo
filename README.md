@@ -3,7 +3,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" alt="Varun ☁️✌️" width="280" style="border-radius: 20px;"/>
   <br><br>
-  <h3>☁️ Cloud-native builder | Open-source enthusiast | Turning creativity into code ☁️</h3>
+  
+  <div style="font-size: 1.1em; font-weight: 600; color: #FF8C42; overflow: hidden; border-right: 3px solid #FF8C42; white-space: nowrap; margin: 10px auto; width: 0; animation: typing 4s steps(60, end) forwards, blink 0.75s step-end infinite;">
+    ☁️ Cloud-native builder | Open-source enthusiast | Turning creativity into code ☁️
+  </div>
 </div>
 
 ---
