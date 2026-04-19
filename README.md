@@ -1,9 +1,9 @@
 # Hey there! I'm Varun ☁️✌️
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" alt="Varun ☁️✌️" width="280" style="border-radius: 20px;"/>
+  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" alt="Varun ☁️✌️" width="280" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(255, 120, 50, 0.3);"/>
   <br><br>
-  <h3>☁️ Cloud-native builder | Open-source enthusiast | Turning caffeine into code ☁️</h3>
+  <h3>☁️ Cloud-native builder | Open-source enthusiast | Turning creativity into code ☁️</h3>
 </div>
 
 ---
@@ -42,9 +42,9 @@ When I'm not coding, you'll find me exploring new tech stacks, contributing to o
 
 <div align="center">
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1E2A44&title_color=FF8C42&text_color=FFD23F&icon_color=FFBA08)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=radical&hide_border=true&bg_color=1E2A44&title_color=FF8C42&text_color=FFD23F&icon_color=FFBA08)
 
 </div>
 
