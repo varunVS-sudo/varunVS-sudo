@@ -1,12 +1,26 @@
+<div style="background: linear-gradient(180deg, #FF9F4C 0%, #FF6B00 35%, #2B1D1A 80%);
+            background-image: 
+              radial-gradient(circle at 15% 20%, rgba(255,255,255,0.25) 0%, transparent 45%),
+              radial-gradient(circle at 35% 45%, rgba(255,255,255,0.22) 0%, transparent 50%),
+              radial-gradient(circle at 70% 25%, rgba(255,255,255,0.18) 0%, transparent 55%),
+              radial-gradient(circle at 85% 65%, rgba(255,240,180,0.15) 0%, transparent 50%),
+              radial-gradient(circle at 25% 75%, rgba(255,220,120,0.12) 0%, transparent 60%);
+            padding: 50px 20px 40px; 
+            border-radius: 24px; 
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
+
 # Hey there! I'm Varun ☁️✌️
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" alt="Varun ☁️✌️" width="280" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(255, 140, 66, 0.3);"/>
+  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" alt="Varun ☁️✌️" width="300" style="border-radius: 24px; box-shadow: 0 20px 40px rgba(0,0,0,0.4);"/>
 </div>
 
 <br>
 
 **Cloud-native builder | Open-source enthusiast | Turning caffeine into code**
+
+</div>
 
 ---
 
@@ -14,7 +28,7 @@
 
 I'm a passionate software engineer who loves crafting scalable systems and delightful developer experiences. With a strong focus on web technologies, cloud solutions, and modern development, I thrive on solving complex problems with simple, elegant solutions.
 
-When I'm not coding, you'll find me exploring new tech stacks, contributing to open source, or enjoying peaceful moments like this ☁️✌️
+When I'm not coding, you'll find me exploring new tech stacks, contributing to open source, or enjoying peaceful moments with the clouds ☁️✌️
 
 ---
 
@@ -37,14 +51,6 @@ When I'm not coding, you'll find me exploring new tech stacks, contributing to o
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-
----
-
-### 🔥 Featured Projects
-
-- **☁️ cloudflow** — Lightweight orchestration engine for serverless workflows
-- **✌️ devtools** — Curated collection of modern developer productivity tools  
-- **scalekit** — Zero-downtime database migration framework
 
 ---
 
