@@ -1,11 +1,7 @@
-# ⚡ VarunHQ
+# ✌️ VarunHQ 😉
 
 <p align="center">
   <img src="profile.png" width="150" style="border-radius:50%;" alt="profile" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Code+%7C+Games+%7C+Apps+%7C+Web;Minimal+Luxury+✨;Built+Different.;No+Limits." alt="typing" />
 </p>
 
 <p align="center">
