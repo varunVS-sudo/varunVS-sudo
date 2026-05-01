@@ -94,4 +94,7 @@ $ ./life
 > create
 > break_limits
 > repeat
+
+
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:0f2027,100:000000&height=120&section=footer" /> </p> <p align="center"> <b>Built Different ⚡</b> </p> ```
