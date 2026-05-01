@@ -70,6 +70,4 @@ Originality > Everything<br><br>
 ⚡ Ultra-fast UI/UX<br>
 🌐 Connect<br>
 <p align="center"> <a href="https://github.com/VarunHQ"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/output/github-contribution-grid-snake-dark.svg" alt="snake" /> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f1f1f,50:0f2027,100:000000" /> </p> <p align="center"> <b>Built Different ⚡</b> </p> ```
